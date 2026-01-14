@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Old Addicts, New Habits",
+  "base_artist": "$uicideboy$",
+  "createdAt": "2026-01-14T04:46:33.734782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Old Addicts, New Habits",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/01_Old_Addicts,_New_Habits_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Old Addicts, New Habits",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/02_Old_Addicts,_New_Habits_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Old Addicts, New Habits (Paused)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/03_Old_Addicts,_New_Habits_(Paused)_$uicideboy$.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Old Addicts, New Habits",
+      "artist": "$uicideboy$",
+      "has_synced": false,
+      "path": "select/pl_01_Old_Addicts,_New_Habits_$uicideboy$.txt"
+    }
+  ]
+}
